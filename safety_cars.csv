@@ -1,0 +1,120 @@
+Race,Cause,Deployed,Retreated,FullLaps,Year,TotalSafetyCars,raceId
+"2014 Australian Grand Prix","Debris from car",12,16,3,2014,1,900
+"2014 Bahrain Grand Prix","Accident",41,48,6,2014,1,902
+"2015 Australian Grand Prix","Accident",1,4,2,2015,1,926
+"2014 Monaco Grand Prix","Accident",1,5,3,2014,2,905
+"2014 Monaco Grand Prix","Accident",26,32,5,2014,2,905
+"2016 Australian Grand Prix","Accident",17,20,2,2016,1,948
+"2014 Canadian Grand Prix","Accident",1,8,6,2014,1,906
+"2018 Australian Grand Prix","Stranded car",29,32,2,2018,1,989
+"2014 British Grand Prix","Accident",1,3,1,2014,1,908
+"2014 German Grand Prix","Accident",1,3,1,2014,1,909
+"2014 Hungarian Grand Prix","Two accidents",9,14,4,2014,2,910
+"2014 Hungarian Grand Prix","Accident",23,28,4,2014,2,910
+"2017 Bahrain Grand Prix","Accident",16,18,1,2017,1,971
+"2014 Singapore Grand Prix","Debris from accident",31,38,6,2014,1,913
+"2014 Japanese Grand Prix","Rain",1,3,2,2014,3,914
+"2014 Japanese Grand Prix","Rain",3,9,6,2014,3,914
+"2014 Japanese Grand Prix","Accident",44,,4,2014,3,914
+"2015 Chinese Grand Prix","Stranded car",54,,2,2015,1,928
+"2016 Chinese Grand Prix","Debris from car",4,10,5,2016,1,950
+"2017 Chinese Grand Prix","Accident",4,8,3,2017,1,970
+"2014 United States Grand Prix","Accident",1,5,3,2014,1,916
+"2015 Malaysian Grand Prix","Accident",4,7,2,2015,1,927
+"2015 Monaco Grand Prix","Accident",59,71,11,2015,1,931
+"2015 Austrian Grand Prix","Accident",1,7,5,2015,1,933
+"2015 British Grand Prix","Accident",1,4,2,2015,1,934
+"2016 Monaco Grand Prix","Rain",1,8,7,2016,1,953
+"2015 Hungarian Grand Prix","Accident",43,49,5,2015,1,936
+"2017 Monaco Grand Prix","Accident",60,68,7,2017,1,974
+"2015 Singapore Grand Prix","Man on track",37,41,3,2015,1,939
+"2015 Russian Grand Prix","Accident",1,4,2,2015,2,941
+"2015 Russian Grand Prix","Accident",12,18,5,2015,2,941
+"2015 United States Grand Prix","Stranded car",28,33,4,2015,2,942
+"2015 United States Grand Prix","Accident",43,47,3,2015,2,942
+"2015 Mexican Grand Prix","Accident",53,58,4,2015,1,943
+"2017 Canadian Grand Prix","Accident",1,4,2,2017,1,975
+"2016 Russian Grand Prix","Accident",1,4,2,2016,1,951
+"2016 Austrian Grand Prix","Debris from car",27,32,4,2016,1,956
+"2016 British Grand Prix","Rain",1,6,5,2016,1,957
+"2016 Mexican Grand Prix","Accident",1,4,2,2016,1,966
+"2016 Brazilian Grand Prix","Rain",1,7,6,2016,4,967
+"2016 Brazilian Grand Prix","Accident",13,20,6,2016,4,967
+"2016 Brazilian Grand Prix","Rain",21,32,11,2016,4,967
+"2016 Brazilian Grand Prix","Accident",48,56,7,2016,4,967
+"2017 British Grand Prix","Accident",1,6,4,2017,1,978
+"2017 Russian Grand Prix","Accident",1,4,2,2017,1,972
+"2017 Hungarian Grand Prix","Accident",4,7,2,2017,1,979
+"2017 Azerbaijan Grand Prix","Stranded car",12,17,4,2017,3,976
+"2017 Azerbaijan Grand Prix","Debris from car",17,20,2,2017,3,976
+"2017 Azerbaijan Grand Prix","Debris from accident",20,24,3,2017,3,976
+"2017 Belgian Grand Prix","Debris from accident",30,35,4,2017,1,980
+"2017 Singapore Grand Prix","Accident",1,5,3,2017,3,982
+"2017 Singapore Grand Prix","Accident",11,15,3,2017,3,982
+"2017 Singapore Grand Prix","Accident",38,42,3,2017,3,982
+"2017 Japanese Grand Prix","Accident",1,4,2,2017,1,984
+"2017 Brazilian Grand Prix","Accident",1,7,5,2017,1,987
+"2018 Chinese Grand Prix","Debris from accident",31,35,3,2018,1,991
+"2018 Azerbaijan Grand Prix","Two accidents",1,6,4,2018,2,992
+"2018 Azerbaijan Grand Prix","Two accidents",40,48,7,2018,2,992
+"2018 Spanish Grand Prix","Accident",1,7,5,2018,1,993
+"2018 Canadian Grand Prix","Accident",1,5,3,2018,1,995
+"2018 French Grand Prix","Accident",1,6,4,2018,1,996
+"2018 British Grand Prix","Accident",33,38,4,2018,2,998
+"2018 British Grand Prix","Accident",38,42,3,2018,2,998
+"2018 German Grand Prix","Accident",52,58,5,2018,1,999
+"2018 Belgian Grand Prix","Accident",1,5,3,2018,1,1001
+"2018 Italian Grand Prix","Accident",1,3,1,2018,1,1002
+"2018 Singapore Grand Prix","Accident",1,5,3,2018,1,1003
+"2018 Japanese Grand Prix","Debris from accident",3,8,4,2018,1,1005
+"2018 Abu Dhabi Grand Prix","Accident",1,5,3,2018,1,1009
+"2019 Bahrain Grand Prix","Two stranded cars",55,,2,2019,1,1011
+"2019 Spanish Grand Prix","Accident",46,53,6,2019,1,1014
+"2019 Monaco Grand Prix","Debris from accident",11,16,4,2019,1,1015
+"2019 British Grand Prix","Accident",20,25,4,2019,1,1019
+"2019 German Grand Prix","Accident",2,5,2,2019,4,1020
+"2019 German Grand Prix","Accident",29,34,4,2019,4,1020
+"2019 German Grand Prix","Accident",41,46,4,2019,4,1020
+"2019 German Grand Prix","Accident",57,60,2,2019,4,1020
+"2019 Belgian Grand Prix","Accident",1,5,3,2019,1,1022
+"2019 Singapore Grand Prix","Debris from accident",34,41,6,2019,3,1024
+"2019 Singapore Grand Prix","Stranded car",44,49,4,2019,3,1024
+"2019 Singapore Grand Prix","Accident",50,53,2,2019,3,1024
+"2019 Russian Grand Prix","Accident",2,5,2,2019,2,1025
+"2019 Russian Grand Prix","Accident",30,34,3,2019,2,1025
+"2019 Brazilian Grand Prix","Stranded car",54,60,5,2019,2,1029
+"2019 Brazilian Grand Prix","Accident",66,70,3,2019,2,1029
+"2020 Austrian Grand Prix","Stranded car",26,31,4,2020,3,1031
+"2020 Austrian Grand Prix","Stranded car",50,55,4,2020,3,1031
+"2020 Austrian Grand Prix","Stranded car",55,61,5,2020,3,1031
+"2020 Styrian Grand Prix","Debris from accident",1,4,2,2020,1,1032
+"2020 British Grand Prix","Accident",2,6,3,2020,2,1034
+"2020 British Grand Prix","Accident",13,19,5,2020,2,1034
+"2020 Belgian Grand Prix","Accident",11,16,4,2020,1,1037
+"2020 Italian Grand Prix","Stranded car",20,24,3,2020,2,1038
+"2020 Italian Grand Prix","Accident",25,28,2,2020,2,1038
+"2020 Tuscan Grand Prix","Accident",1,7,5,2020,3,1039
+"2020 Tuscan Grand Prix","Accident",7,10,2,2020,3,1039
+"2020 Tuscan Grand Prix","Accident",45,48,2,2020,3,1039
+"2020 Russian Grand Prix","Two accidents",1,6,4,2020,1,1040
+"2020 Eifel Grand Prix","Stranded car",45,51,5,2020,1,1041
+"2020 Emilia Romagna Grand Prix","Accident",51,57,5,2020,1,1043
+"2020 Bahrain Grand Prix","Accident",2,9,6,2020,2,1045
+"2020 Bahrain Grand Prix","Stranded car",54,,3,2020,2,1045
+"2020 Sakhir Grand Prix","Accident",1,7,5,2020,2,1046
+"2020 Sakhir Grand Prix","Accident",64,68,3,2020,2,1046
+"2020 Abu Dhabi Grand Prix","Stranded car",12,14,1,2020,1,1047
+"2021 Emilia Romagna Grand Prix","Two accidents",2,7,4,2021,1,1053
+"2021 Bahrain Grand Prix","Accident",1,4,2,2021,1,1052
+"2021 Portuguese Grand Prix","Accident",2,7,4,2021,1,1054
+"2021 Spanish Grand Prix","Stranded car",8,11,2,2021,1,1055
+"2021 Azerbaijan Grand Prix","Accident",32,36,3,2021,2,1057
+"2021 Azerbaijan Grand Prix","Accident",47,49,1,2021,2,1057
+"2021 Austrian Grand Prix","Stranded car",1,4,2,2021,1,1060
+"2021 Hungarian Grand Prix","Accident",1,2,1,2021,1,1062
+"2021 Belgian Grand Prix","Rain",1,,2,2021,1,1063
+"2021 Italian Grand Prix","Accident",26,32,5,2021,1,1065
+"2021 Mexico City Grand Prix","Accident",1,5,3,2021,1,1070
+"2021 Brazilian Grand Prix","Debris from accident",6,10,3,2021,1,1071
+"2021 Saudi Arabian Grand Prix","Accident",10,15,4,2021,1,1072
+"2021 Abu Dhabi Grand Prix","Accident",54,58,3,2021,1,1073

@@ -1,0 +1,20 @@
+Race,Lap,Incident,Excluded,Year,TotalRedFlags,racesEdit.raceId
+"2016 Australian Grand Prix",18,"Crash involving Fernando Alonso and Esteban Gutiérrez.","Fernando Alonso (crash, injured), Esteban Gutiérrez (crash) and Rio Haryanto (mechanical problem during red flag period)",2016,1,948
+"2014 British Grand Prix",1,"Crash involving Kimi Räikkönen, Felipe Massa and Kamui Kobayashi, resulting in a damaged guardrail.","Kimi Räikkönen and Felipe Massa",2014,1,908
+"2016 Belgian Grand Prix",9,"Crash of Kevin Magnussen, resulting in a damaged barrier.","Kevin Magnussen",2016,1,960
+"2014 Japanese Grand Prix",2,"Torrential rain as a consequence of Typhoon Phanfone.","",2014,2,914
+"2014 Japanese Grand Prix",46,"Fatal crash of Jules Bianchi.","",2014,2,914
+"2016 Brazilian Grand Prix",21,"Rain and crash of Kimi Räikkönen.","Jolyon Palmer, Kimi Räikkönen",2016,2,967
+"2016 Brazilian Grand Prix",28,"Rain.","",2016,2,967
+"2017 Azerbaijan Grand Prix",22,"Debris on the track following multiple incidents.","",2017,1,976
+"2020 Italian Grand Prix",27,"Crash of Charles Leclerc, resulting in a damaged barrier.","Charles Leclerc",2020,1,1038
+"2020 Tuscan Grand Prix",9,"Crash involving Carlos Sainz Jr., Nicholas Latifi, Kevin Magnussen and Antonio Giovinazzi.","Carlos Sainz Jr., Nicholas Latifi, Kevin Magnussen, Antonio Giovinazzi (all crash) and Esteban Ocon (brakes)",2020,2,1039
+"2020 Tuscan Grand Prix",46,"Crash of Lance Stroll, resulting in a damaged barrier.","Lance Stroll",2020,2,1039
+"2020 Bahrain Grand Prix",1,"Crash of Romain Grosjean, resulting in a damaged barrier.","Romain Grosjean (crash, injured)",2020,1,1045
+"2021 Emilia Romagna Grand Prix",33,"Crash involving Valtteri Bottas and George Russell, resulting in debris on the track.","Valtteri Bottas, George Russell",2021,1,1053
+"2021 Azerbaijan Grand Prix",48,"Crash of Max Verstappen, resulting in debris on the track.","Max Verstappen",2021,1,1057
+"2021 British Grand Prix",2,"Crash involving Lewis Hamilton and Max Verstappen, resulting in a damaged barrier.","Max Verstappen",2021,1,1061
+"2021 Hungarian Grand Prix",2,"Crashes involving Valtteri Bottas, Lando Norris, Max Verstappen, Sergio Pérez, Lance Stroll, Daniel Ricciardo, and Charles Leclerc, resulting in debris on the track.","Valtteri Bottas, Charles Leclerc, Lance Stroll, Sergio Pérez, Lando Norris (all crash)",2021,1,1062
+"2021 Belgian Grand Prix",3,"Rain. Half points were awarded.","",2021,1,1063
+"2021 Saudi Arabian Grand Prix",13,"Crash of Mick Schumacher, resulting in a damaged barrier.","Mick Schumacher (crash)",2021,2,1072
+"2021 Saudi Arabian Grand Prix",15,"Crashes involving Charles Leclerc, Nikita Mazepin, Sergio Pérez and George Russell.","Nikita Mazepin, Sergio Pérez and George Russell (all crash)",2021,2,1072
